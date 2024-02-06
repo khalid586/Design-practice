@@ -1,2 +1,2 @@
 # Brief
-Practiced coddes are here
+Practiced codes are here
